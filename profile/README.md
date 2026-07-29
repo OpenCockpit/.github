@@ -1,6 +1,6 @@
 # OpenCockpit
 
-Open-source Enigma2 plugins that integrate streaming services directly into the DVB service architecture, so a streaming channel behaves exactly like a normal TV service: same channel selection, same favourites, same EPG handling.
+Open Enigma2 plugins that focus on improving management and playback of IPTV services.
 
 ## Projects
 - **[IPTVServiceCockpit](https://github.com/OpenCockpit/IPTVServiceCockpit)** — Integrates custom IPTV playlists (M3U) as providers/favourites.
