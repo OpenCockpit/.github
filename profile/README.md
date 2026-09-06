@@ -9,6 +9,7 @@ Open Enigma2 plugins that focus on improving management and playback of IPTV ser
 - **[SamsungTVCockpit](https://github.com/OpenCockpit/SamsungTVCockpit)** — Live-TV playback of Samsung TV Plus streams.
 - **[TMDBCockpit](https://github.com/OpenCockpit/TMDBCockpit)** — TMDB movie infos.
 - **[MediathekCockpit](https://github.com/OpenCockpit/MediathekCockpit)** — Playback/Download german media libary (Mediathek) movies.
+- **[TVMagazineCockpit](https://github.com/OpenCockpit/TVMagazineCockpit)** — German TV event info (magazine style).
 
 ## Tools
 - **[SkinForge](https://github.com/xcentaurix/SkinForge)** — Next generation Enigma2 skin design with YAML language and compiler
