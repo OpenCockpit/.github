@@ -1,6 +1,6 @@
 # OpenCockpit
 
-Open Enigma2 plugins that focus on improving management and playback of IPTV services.
+Open Enigma2 plugin collection.
 
 ## Plugins
 - **[IPTVServiceCockpit](https://github.com/OpenCockpit/IPTVServiceCockpit)** — Integrates custom IPTV playlists (M3U8) as providers/favourites.
@@ -10,6 +10,9 @@ Open Enigma2 plugins that focus on improving management and playback of IPTV ser
 - **[TMDBCockpit](https://github.com/OpenCockpit/TMDBCockpit)** — TMDB movie infos.
 - **[MediathekCockpit](https://github.com/OpenCockpit/MediathekCockpit)** — Playback/Download german media libary (Mediathek) movies.
 - **[TVMagazineCockpit](https://github.com/OpenCockpit/TVMagazineCockpit)** — German TV event info (magazine style).
+
+## Skins
+- **[DisplayCockpit](https://github.com/OpenCockpit/DisplayCockpit)** — Display skin for 400(net 396) x 240 px displays.
 
 ## Tools
 - **[SkinForge](https://github.com/xcentaurix/SkinForge)** — Next generation Enigma2 skin design with YAML language and compiler
