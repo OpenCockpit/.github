@@ -10,7 +10,7 @@ Open Enigma2 plugin collection
 ## Multimedia
 - **[MediathekCockpit](https://github.com/OpenCockpit/MediathekCockpit)** — Playback/Download german media libary (Mediathek) movies.
 - **[MovieCockpit](https://github.com/OpenCockpit/MovieCockpit)** — Movie list supporting a virtual filesystem using an SQL database.
-- **[TimeshiftCockpit](https://github.com/OpenCockpit/TimeshiftCockpit)** — Timeshift supporting on-demand/fixed timeshift on multiple channels, event selection for playback or recording.
+- **[TimeshiftCockpit](https://github.com/OpenCockpit/TimeshiftCockpit)** — Timeshift supporting on-demand/permanent timeshift on multiple channels, event selection for playback or recording.
 - **[TMDBCockpit](https://github.com/OpenCockpit/TMDBCockpit)** — TMDB movie infos.
 - **[TVMagazineCockpit](https://github.com/OpenCockpit/TVMagazineCockpit)** — German TV event info (magazine style).
 
