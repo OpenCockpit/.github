@@ -26,5 +26,8 @@ Open Enigma2 plugin collection
 ## Tools
 - **[SkinForge](https://github.com/xcentaurix/SkinForge)** — Next generation Enigma2 skin design with YAML language and compiler
 
+## Concepts
+- **[enigma3](https://github.com/xcentaurix/enigma3)** — Enigma3 - the next generation Enigma2 operating-system
+
 ## Installation
 All plugins are installed from the [Cockpit-Feed](https://github.com/xcentaurix/Cockpit-Feed) - see the individual repo's README for setup instructions.
