@@ -24,10 +24,10 @@ Open Enigma2 plugin collection
 - **[DisplayCockpit](https://github.com/OpenCockpit/DisplayCockpit)** — Display skin for 400(net 396) x 240 px displays.
 
 ## Tools
-- **[SkinForge](https://github.com/xcentaurix/SkinForge)** — Next generation Enigma2 skin design with YAML language and compiler
+- **[SkinForge](https://github.com/xcentaurix/SkinForge)** — the next generation enigma2 skin design with YAML language and compiler
 
 ## Concepts
-- **[enigma3](https://github.com/xcentaurix/enigma3)** — Enigma3 - the next generation Enigma2 operating-system
+- **[enigma3](https://github.com/xcentaurix/enigma3)** — the next generation enigma2 operating-system
 
 ## Installation
 All plugins are installed from the [Cockpit-Feed](https://github.com/xcentaurix/Cockpit-Feed) - see the individual repo's README for setup instructions.
