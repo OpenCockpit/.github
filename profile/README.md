@@ -21,7 +21,7 @@ Open Enigma2 plugin collection
 - **[PowerCockpit](https://github.com/OpenCockpit/PowerCockpit)** — On power-off waits for completion of recordings (live/timeshift), media downloads, job executions before shutting down.
 
 ## Skins
-- **[DisplayCockpit](https://github.com/OpenCockpit/DisplayCockpit)** — Display skin for 400(net 396) x 240 px displays.
+- **[DisplaySkinCockpit](https://github.com/OpenCockpit/DisplaySkinCockpit)** — Display skin for 400(net 396) x 240 px displays.
 
 ## Tools
 - **[SkinForge](https://github.com/OpenCockpit/SkinForge)** — the next generation enigma2 skin design with YAML language and compiler
