@@ -25,7 +25,7 @@ Open Enigma2 plugin collection
 - **[MaterialSkinCockpit](https://github.com/OpenCockpit/MaterialSkinCockpit)** — OSD skin that follows Google's Material Design 3 concept. Additionally it contains Kodi equivalent screen and list animations.
 
 ## Tools
-- **[SkinForge](https://github.com/OpenCockpit/SkinForge)** — the next generation enigma2 skin design with YAML language and compiler
+- **[SkinForge](https://github.com/OpenCockpit/SkinForge)** — the next generation modular enigma2 skin design using YAML language and compiler
 
 ## Concepts
 - **[enigma3](https://github.com/xcentaurix/enigma3)** — the next generation enigma2 operating-system
