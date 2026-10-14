@@ -7,6 +7,8 @@ Open Enigma2 plugin collection
 - **[RakutenTVCockpit](https://github.com/OpenCockpit/RakutenTVCockpit)** — Live-TV playback of Rakuten TV streams.
 - **[SamsungTVCockpit](https://github.com/OpenCockpit/SamsungTVCockpit)** — Live-TV playback of Samsung TV Plus streams.
 
+- **[StreamingProxyCockpit](https://github.com/OpenCockpit/StreamingProxyCockpit)** — Playback/Recording proxy for PlutoTVCockpit, RakutenTVCockpit and SamsungTVCockpit that provides DVB-compliant stream recording. 
+
 ## Multimedia
 - **[MediathekCockpit](https://github.com/OpenCockpit/MediathekCockpit)** — Playback/Download german media libary (Mediathek) movies.
 - **[MovieCockpit](https://github.com/OpenCockpit/MovieCockpit)** — Movie list supporting a virtual filesystem using an SQL database.
