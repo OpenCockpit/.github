@@ -16,7 +16,6 @@ Open Enigma2 plugin collection
 - **[TVMagazineCockpit](https://github.com/OpenCockpit/TVMagazineCockpit)** — German TV event info (magazine style).
 
 ## Utils
-- **[IPTVServiceCockpit](https://github.com/OpenCockpit/IPTVServiceCockpit)** — Integrates custom IPTV playlists (M3U8) as providers/favourites.
 - **[JobCockpit](https://github.com/OpenCockpit/JobCockpit)** — Jobmanager supporting multiple job list in parallel.
 - **[PiconCockpit](https://github.com/OpenCockpit/PiconCockpit)** — Download DVB picons.
 - **[PowerCockpit](https://github.com/OpenCockpit/PowerCockpit)** — On power-off waits for completion of recordings (live/timeshift), media downloads, job executions before shutting down.
