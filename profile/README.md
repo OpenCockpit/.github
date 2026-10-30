@@ -15,14 +15,14 @@ Open Enigma2 plugin collection
 - **[TMDBCockpit](https://github.com/OpenCockpit/TMDBCockpit)** — TMDB movie infos.
 - **[TVMagazineCockpit](https://github.com/OpenCockpit/TVMagazineCockpit)** — German TV event info (magazine style).
 
+## Skins
+- **[DisplaySkinCockpit](https://github.com/OpenCockpit/DisplaySkinCockpit)** — Display skin for 400(net 396) x 240 px displays.
+- **[MaterialSkinCockpit](https://github.com/OpenCockpit/MaterialSkinCockpit)** — OSD skin that follows Google's Material Design 3 concept.
+
 ## Utils
 - **[JobCockpit](https://github.com/OpenCockpit/JobCockpit)** — Jobmanager supporting multiple job list in parallel.
 - **[PiconCockpit](https://github.com/OpenCockpit/PiconCockpit)** — Download DVB picons.
 - **[PowerCockpit](https://github.com/OpenCockpit/PowerCockpit)** — On power-off waits for completion of recordings (live/timeshift), media downloads, job executions before shutting down.
-
-## Skins
-- **[DisplaySkinCockpit](https://github.com/OpenCockpit/DisplaySkinCockpit)** — Display skin for 400(net 396) x 240 px displays.
-- **[MaterialSkinCockpit](https://github.com/OpenCockpit/MaterialSkinCockpit)** — OSD skin that follows Google's Material Design 3 concept.
 
 ## Tools
 - **[SkinForge](https://github.com/OpenCockpit/SkinForge)** — the next generation modular enigma2 skin design using YAML language and compiler
