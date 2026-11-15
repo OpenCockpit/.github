@@ -9,7 +9,7 @@ Open Enigma2 plugin collection
 - **[StreamProxyCockpit](https://github.com/OpenCockpit/StreamProxyCockpit)** — Playback/Recording proxy for PlutoTVCockpit, RakutenTVCockpit and SamsungTVCockpit that provides DVB-compliant stream recording. 
 
 ## Multimedia
-- **[MediaCockpit](https://github.com/OpenCockpit/MediaCockpit)** — A Media-Center plugin for viewing photo collections, slideshows, and listening to music.
+- **[MediaCockpit](https://github.com/OpenCockpit/MediaCockpit)** — A Media-Center plugin for viewing and organizing photo collections, slideshows, and listening to music.
 - **[MediathekCockpit](https://github.com/OpenCockpit/MediathekCockpit)** — Playback/Download german media libary (Mediathek) movies.
 - **[MovieCockpit](https://github.com/OpenCockpit/MovieCockpit)** — Movie list supporting a virtual filesystem using an SQL database.
 - **[TimeshiftCockpit](https://github.com/OpenCockpit/TimeshiftCockpit)** — Timeshift supporting on-demand/permanent timeshift on multiple channels, event selection for playback or recording.
